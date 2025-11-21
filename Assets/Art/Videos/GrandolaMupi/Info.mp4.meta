@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d87ba16a9d9ceea4099968bf872d55ec
+guid: 904ae6943830fed4d85378bd65a12a45
 VideoClipImporter:
   externalObjects: {}
   serializedVersion: 3
@@ -14,5 +14,5 @@ VideoClipImporter:
   importAudio: 1
   targetSettings: {}
   userData: 
-  assetBundleName: portfolio/grandolavr
+  assetBundleName: 
   assetBundleVariant: 

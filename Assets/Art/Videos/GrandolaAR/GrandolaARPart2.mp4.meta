@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 904ae6943830fed4d85378bd65a12a45
+guid: ea61d6525577b10458af8e8b81216167
 VideoClipImporter:
   externalObjects: {}
   serializedVersion: 3
@@ -14,5 +14,5 @@ VideoClipImporter:
   importAudio: 1
   targetSettings: {}
   userData: 
-  assetBundleName: portfolio/grandolamupi
+  assetBundleName: 
   assetBundleVariant: 

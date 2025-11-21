@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 30e28ce3f5734464f8e20e2dff17fc2f
+guid: b2199c0c21bf53b46906ec02eaf99b22
 VideoClipImporter:
   externalObjects: {}
   serializedVersion: 3
@@ -14,5 +14,5 @@ VideoClipImporter:
   importAudio: 1
   targetSettings: {}
   userData: 
-  assetBundleName: portfolio/sabseg
+  assetBundleName: 
   assetBundleVariant: 

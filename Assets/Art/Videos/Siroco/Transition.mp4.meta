@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8803b7d0887a560419cc946de4deea99
+guid: 8b8bba16a7c8f654faac93bba5ae2b1e
 VideoClipImporter:
   externalObjects: {}
   serializedVersion: 3
@@ -14,5 +14,5 @@ VideoClipImporter:
   importAudio: 1
   targetSettings: {}
   userData: 
-  assetBundleName: portfolio/ooty
+  assetBundleName: 
   assetBundleVariant: 
